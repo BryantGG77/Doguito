@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Doguito - Petshop & Pet Noticias 🐶
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a **Doguito**, la petshop ideal para los amantes de las mascotas! Este proyecto cuenta con un apartado especial llamado "Pet Noticias" para mantenerte informado sobre temas relacionados con el cuidado y bienestar de tus mascotas.
 
-## Available Scripts
+Este proyecto fue desarrollado como parte del curso **"React Router: Navegación en una SPA"** de **Alura Latam**, y tiene como objetivo principal poner en práctica los conceptos aprendidos sobre rutas, navegación y diseño de aplicaciones web modernas.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📋 Características
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🌟 **Interfaz amigable y responsiva**: Diseño adaptado para diferentes dispositivos.
+- 📰 **Sección de noticias para mascotas**: Artículos sobre cuidado, salud, y tips para tus mascotas.
+- 🔄 **Navegación fluida**: Implementada utilizando **React Router** para ofrecer una experiencia de usuario rápida y dinámica.
+- 📚 **Código estructurado y modular**: Utilización de mejores prácticas para React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Tecnologías utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**: Framework principal para la construcción de la interfaz.
+- **React Router**: Para la gestión de rutas y navegación.
+- **HTML5**: Estructura semántica.
+- **CSS3**: Estilos visuales y responsividad.
+- **JavaScript (ES6+)**: Lógica funcional.
+- **Json-server**: Simulador de una base de datos para pruebas de API.
+---
 
-### `npm run build`
+## 🛠️ Requisitos previos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para ejecutar este proyecto, necesitarás tener instalados los siguientes programas:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Node.js](https://nodejs.org/) (v14 o superior)
+- [npm](https://www.npmjs.com/) o [yarn](https://yarnpkg.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📥 Instalación y ejecución
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clona este repositorio:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/BryantGG77/doguito-petshop.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Accede al directorio del proyecto:
+  
+  ```bash
+  cd doguito-petshop
+```
+3. Instala las dependencias:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  npm install
+```
+4. Inicia el servidor de desarrollo:
 
-## Learn More
+```bash
+  npm start
+```
+5. Abre tu navegador y visita http://localhost:3000.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Estructura del proyecto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+doguito-petshop/
+├── public/           # Archivos estáticos
+├── src/
+│   ├── components/   # Componentes reutilizables
+│   ├── pages/        # Páginas principales
+│   ├── services/     # Lógica de negocio (API, etc.)
+│   ├── styles/       # Archivos CSS
+│   └── App.js        # Componente principal
+├── package.json      # Dependencias y scripts
+└── README.md         # Este archivo
 
-### Code Splitting
+## 🖼️ Capturas de pantalla
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Página principal
+2. Sección Pet Noticias
 
-### Analyzing the Bundle Size
+## 🤝 Agradecimientos
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Este proyecto fue desarrollado con el apoyo de:
 
-### Making a Progressive Web App
+- **Alura Latam**
+- Profesores y mentores del curso "React Router: Navegación en una SPA"
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📧 Contacto
 
-### Advanced Configuration
+¿Tienes preguntas o sugerencias? Puedes contactarme:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Correo electrónico: brayespro@gmail.com
+- GitHub: BryantGG77
