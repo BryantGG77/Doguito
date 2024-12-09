@@ -58,23 +58,16 @@ Para ejecutar este proyecto, necesitarás tener instalados los siguientes progra
 ```
 5. Abre tu navegador y visita http://localhost:3000.
 
-## Estructura del proyecto
-
-doguito-petshop/
-├── public/           # Archivos estáticos
-├── src/
-│   ├── components/   # Componentes reutilizables
-│   ├── pages/        # Páginas principales
-│   ├── services/     # Lógica de negocio (API, etc.)
-│   ├── styles/       # Archivos CSS
-│   └── App.js        # Componente principal
-├── package.json      # Dependencias y scripts
-└── README.md         # Este archivo
-
 ## 🖼️ Capturas de pantalla
 
 1. Página principal
-2. Sección Pet Noticias
+
+![Screenshot 2024-12-09 144238](https://github.com/user-attachments/assets/200d1e1e-603a-4bf2-b6b7-861c4408c957)
+
+2. Filtros
+
+![Screenshot 2024-12-09 144332](https://github.com/user-attachments/assets/6478e1d9-8046-4649-b157-55cc2e71ee87)
+![Screenshot 2024-12-09 144354](https://github.com/user-attachments/assets/5e7333aa-41d7-4002-a428-03105aa57a9f)
 
 ## 🤝 Agradecimientos
 
