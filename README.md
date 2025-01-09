@@ -39,7 +39,7 @@ Para ejecutar este proyecto, necesitarás tener instalados los siguientes progra
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/BryantGG77/doguito-petshop.git
+   git clone https://github.com/BryantGG77/Doguito.git
 
 2. Accede al directorio del proyecto:
   
