@@ -80,5 +80,5 @@ Este proyecto fue desarrollado con el apoyo de:
 
 ¿Tienes preguntas o sugerencias? Puedes contactarme:
 
-- Correo electrónico: brayespro@gmail.com
+- Correo electrónico: brayanvr.dev@gmail.com
 - GitHub: BryantGG77
